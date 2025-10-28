@@ -3,6 +3,8 @@
 ## Overview
 App that allows user to explore mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue from Huntington's Disease and neurologically normal individuals. Data can be found on the GEO database [(GSE64810)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810). 
 
+[Go to App](https://gene-expression-explorer.shinyapps.io/gene_exp_explorer/)
+
 ### Tour of Functionalities
 - Sample Information Exploration
   - Summary of metadata columns
